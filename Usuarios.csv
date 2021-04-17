@@ -1,9 +1,9 @@
 nombre;apellido;puntaje;categoria
 armando;casas;3.14;3
-aurelio;cheverony;5;5
+aurelio;cheverony;5.0;5
 pepito;perez;1.6;1
 pablo;perez;1.9;1
-pedro;perez;2;2
+pedro;perez;2.0;2
 andres;perez;3.4;3
 leo;paredes;3.3;3
 andres;paredes;2.9;2
@@ -12,9 +12,9 @@ aurelio;smith;4.5;4
 leo;messi;3.9;3
 luis;fernandez;2.2;2
 luis;andrade;1.1;1
-luis;linares;5;5
+luis;linares;5.0;5
 luis;lopez;4.4;4
-armando;cuadros;5;5
+armando;cuadros;5.0;5
 otoniel;andrade;4.9;4
 sebabstian;rios;3.2;3
 sebabstian;vargas;2.1;2
