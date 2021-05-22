@@ -1,1 +1,12 @@
-id_ejercicio;ejercicio;nivel1;3 vueltas;12;15 saltos;13;3 zigzag;14;20 vueltas;55;3 tiros precisos;4
+id_ejercicio;descripcion;id_rango;duracion;explicacion;id_area;link_entreno
+1;laso suave;1;15;saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion;1;link1
+2;laso medio;2;17;saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion;2;link2
+3;saltos en 1 pie suave;1;19;saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion;1;link3
+4;flexiones de pecho media;2;21;flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza;2;link4
+5;sentadilla dura;3;23;flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion;3;link5
+6;skipping duro;3;25;tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion;3;link6
+7;taloneo suave;1;27;flexionar los talones atr s al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia;1;link7
+8;elongaciones media;2;29;flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion;2;link8
+9;barras media;2;31;extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion;2;link9
+10;escalera de agilidad duro;3;33;tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion;3;link10
+11;subir laso suave;1;22;saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion;1;link11
