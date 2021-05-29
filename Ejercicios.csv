@@ -1,12 +1,1001 @@
-id_ejercicio;descripcion;id_rango;duracion;explicacion;id_area;link_entreno
-1;laso suave;1;15;saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion;1;link1
-2;laso medio;2;17;saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion;2;link2
-3;saltos en 1 pie suave;1;19;saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion;1;link3
-4;flexiones de pecho media;2;21;flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza;2;link4
-5;sentadilla dura;3;23;flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion;3;link5
-6;skipping duro;3;25;tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion;3;link6
-7;taloneo suave;1;27;flexionar los talones atr�s al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia;1;link7
-8;elongaciones media;2;29;flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion;2;link8
-9;barras media;2;31;extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion;2;link9
-10;escalera de agilidad duro;3;33;tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion;3;link10
-11;subir laso suave;1;22;saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion;1;link11
+id_ejercicio,descripcion,id_rango,duracion,explicacion,id_area,link_entreno
+1,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"2,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"3,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+4,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"5,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"6,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"7,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"8,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"9,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"10,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+11,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+12,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"13,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"14,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+15,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"16,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"17,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"18,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"19,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"20,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"21,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+22,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+23,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"24,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"25,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+26,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"27,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"28,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"29,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"30,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"31,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"32,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+33,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+34,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"35,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"36,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+37,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"38,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"39,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"40,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"41,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"42,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"43,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+44,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+45,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"46,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"47,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+48,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"49,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"50,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"51,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"52,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"53,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"54,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+55,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+56,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"57,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"58,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+59,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"60,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"61,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"62,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"63,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"64,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"65,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+66,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+67,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"68,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"69,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+70,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"71,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"72,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"73,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"74,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"75,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"76,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+77,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+78,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"79,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"80,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+81,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"82,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"83,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"84,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"85,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"86,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"87,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+88,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+89,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"90,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"91,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+92,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"93,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"94,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"95,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"96,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"97,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"98,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+99,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+100,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"101,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"102,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+103,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"104,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"105,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"106,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"107,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"108,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"109,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+110,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+111,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"112,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"113,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+114,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"115,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"116,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"117,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"118,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"119,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"120,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+121,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+122,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"123,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"124,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+125,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"126,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"127,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"128,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"129,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"130,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"131,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+132,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+133,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"134,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"135,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+136,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"137,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"138,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"139,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"140,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"141,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"142,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+143,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+144,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"145,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"146,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+147,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"148,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"149,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"150,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"151,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"152,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"153,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+154,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+155,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"156,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"157,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+158,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"159,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"160,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"161,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"162,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"163,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"164,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+165,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+166,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"167,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"168,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+169,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"170,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"171,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"172,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"173,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"174,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"175,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+176,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+177,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"178,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"179,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+180,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"181,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"182,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"183,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"184,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"185,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"186,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+187,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+188,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"189,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"190,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+191,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"192,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"193,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"194,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"195,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"196,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"197,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+198,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+199,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"200,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"201,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+202,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"203,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"204,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"205,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"206,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"207,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"208,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+209,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+210,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"211,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"212,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+213,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"214,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"215,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"216,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"217,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"218,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"219,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+220,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+221,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"222,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"223,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+224,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"225,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"226,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"227,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"228,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"229,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"230,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+231,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+232,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"233,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"234,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+235,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"236,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"237,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"238,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"239,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"240,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"241,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+242,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+243,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"244,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"245,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+246,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"247,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"248,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"249,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"250,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"251,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"252,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+253,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+254,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"255,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"256,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+257,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"258,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"259,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"260,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"261,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"262,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"263,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+264,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+265,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"266,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"267,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+268,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"269,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"270,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"271,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"272,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"273,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"274,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+275,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+276,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"277,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"278,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+279,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"280,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"281,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"282,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"283,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"284,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"285,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+286,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+287,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"288,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"289,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+290,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"291,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"292,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"293,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"294,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"295,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"296,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+297,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+298,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"299,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"300,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+301,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"302,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"303,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"304,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"305,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"306,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"307,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+308,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+309,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"310,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"311,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+312,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"313,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"314,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"315,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"316,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"317,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"318,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+319,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+320,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"321,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"322,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+323,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"324,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"325,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"326,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"327,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"328,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"329,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+330,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+331,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"332,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"333,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+334,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"335,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"336,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"337,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"338,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"339,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"340,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+341,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+342,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"343,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"344,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+345,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"346,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"347,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"348,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"349,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"350,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"351,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+352,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+353,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"354,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"355,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+356,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"357,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"358,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"359,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"360,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"361,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"362,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+363,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+364,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"365,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"366,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+367,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"368,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"369,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"370,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"371,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"372,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"373,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+374,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+375,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"376,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"377,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+378,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"379,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"380,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"381,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"382,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"383,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"384,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+385,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+386,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"387,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"388,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+389,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"390,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"391,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"392,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"393,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"394,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"395,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+396,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+397,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"398,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"399,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+400,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"401,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"402,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"403,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"404,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"405,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"406,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+407,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+408,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"409,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"410,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+411,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"412,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"413,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"414,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"415,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"416,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"417,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+418,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+419,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"420,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"421,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+422,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"423,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"424,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"425,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"426,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"427,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"428,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+429,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+430,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"431,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"432,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+433,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"434,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"435,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"436,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"437,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"438,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"439,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+440,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+441,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"442,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"443,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+444,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"445,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"446,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"447,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"448,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"449,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"450,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+451,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+452,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"453,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"454,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+455,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"456,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"457,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"458,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"459,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"460,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"461,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+462,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+463,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"464,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"465,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+466,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"467,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"468,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"469,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"470,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"471,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"472,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+473,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+474,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"475,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"476,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+477,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"478,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"479,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"480,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"481,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"482,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"483,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+484,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+485,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"486,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"487,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+488,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"489,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"490,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"491,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"492,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"493,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"494,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+495,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+496,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"497,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"498,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+499,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"500,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"501,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"502,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"503,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"504,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"505,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+506,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+507,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"508,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"509,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+510,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"511,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"512,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"513,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"514,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"515,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"516,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+517,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+518,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"519,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"520,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+521,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"522,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"523,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"524,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"525,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"526,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"527,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+528,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+529,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"530,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"531,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+532,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"533,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"534,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"535,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"536,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"537,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"538,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+539,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+540,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"541,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"542,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+543,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"544,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"545,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"546,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"547,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"548,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"549,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+550,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+551,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"552,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"553,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+554,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"555,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"556,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"557,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"558,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"559,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"560,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+561,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+562,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"563,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"564,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+565,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"566,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"567,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"568,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"569,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"570,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"571,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+572,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+573,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"574,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"575,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+576,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"577,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"578,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"579,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"580,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"581,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"582,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+583,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+584,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"585,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"586,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+587,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"588,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"589,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"590,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"591,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"592,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"593,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+594,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+595,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"596,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"597,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+598,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"599,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"600,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"601,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"602,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"603,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"604,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+605,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+606,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"607,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"608,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+609,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"610,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"611,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"612,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"613,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"614,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"615,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+616,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+617,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"618,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"619,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+620,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"621,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"622,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"623,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"624,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"625,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"626,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+627,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+628,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"629,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"630,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+631,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"632,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"633,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"634,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"635,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"636,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"637,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+638,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+639,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"640,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"641,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+642,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"643,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"644,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"645,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"646,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"647,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"648,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+649,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+650,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"651,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"652,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+653,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"654,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"655,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"656,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"657,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"658,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"659,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+660,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+661,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"662,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"663,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+664,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"665,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"666,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"667,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"668,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"669,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"670,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+671,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+672,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"673,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"674,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+675,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"676,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"677,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"678,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"679,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"680,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"681,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+682,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+683,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"684,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"685,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+686,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"687,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"688,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"689,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"690,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"691,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"692,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+693,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+694,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"695,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"696,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+697,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"698,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"699,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"700,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"701,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"702,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"703,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+704,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+705,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"706,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"707,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+708,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"709,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"710,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"711,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"712,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"713,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"714,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+715,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+716,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"717,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"718,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+719,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"720,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"721,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"722,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"723,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"724,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"725,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+726,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+727,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"728,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"729,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+730,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"731,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"732,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"733,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"734,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"735,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"736,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+737,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+738,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"739,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"740,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+741,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"742,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"743,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"744,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"745,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"746,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"747,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+748,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+749,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"750,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"751,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+752,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"753,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"754,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"755,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"756,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"757,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"758,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+759,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+760,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"761,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"762,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+763,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"764,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"765,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"766,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"767,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"768,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"769,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+770,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+771,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"772,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"773,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+774,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"775,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"776,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"777,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"778,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"779,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"780,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+781,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+782,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"783,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"784,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+785,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"786,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"787,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"788,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"789,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"790,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"791,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+792,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+793,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"794,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"795,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+796,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"797,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"798,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"799,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"800,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"801,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"802,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+803,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+804,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"805,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"806,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+807,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"808,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"809,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"810,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"811,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"812,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"813,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+814,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+815,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"816,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"817,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+818,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"819,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"820,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"821,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"822,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"823,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"824,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+825,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+826,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"827,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"828,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+829,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"830,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"831,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"832,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"833,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"834,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"835,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+836,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+837,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"838,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"839,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+840,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"841,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"842,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"843,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"844,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"845,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"846,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+847,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+848,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"849,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"850,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+851,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"852,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"853,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"854,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"855,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"856,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"857,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+858,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+859,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"860,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"861,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+862,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"863,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"864,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"865,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"866,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"867,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"868,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+869,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+870,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"871,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"872,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+873,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"874,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"875,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"876,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"877,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"878,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"879,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+880,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+881,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"882,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"883,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+884,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"885,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"886,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"887,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"888,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"889,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"890,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+891,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+892,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"893,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"894,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+895,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"896,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"897,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"898,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"899,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"900,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"901,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+902,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+903,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"904,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"905,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+906,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"907,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"908,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"909,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"910,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"911,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"912,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+913,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+914,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"915,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"916,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+917,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"918,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"919,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"920,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"921,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"922,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"923,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+924,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+925,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"926,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"927,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+928,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"929,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"930,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"931,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"932,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"933,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"934,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+935,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+936,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"937,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"938,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+939,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"940,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"941,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"942,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"943,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"944,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"945,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+946,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+947,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"948,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"949,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+950,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"951,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"952,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"953,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"954,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"955,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"956,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+957,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+958,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"959,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"960,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+961,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"962,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"963,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"964,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"965,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"966,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"967,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+968,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+969,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"970,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"971,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+972,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"973,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"974,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"975,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"976,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"977,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"978,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+979,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+980,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"981,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"982,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+983,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"984,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"985,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"986,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"987,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"988,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"989,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
+990,subir laso suave,1,22,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link11
+991,laso suave,1,15,saltar el laso a una intensaidad suave mejora la resistencia y la coordinacion,1,link1
+"992,laso medio,2,17,""saltar el laso a una intensidad media mejora la resistencia, la coordinacion, la velocidad y la aceleracion"",2,link2"
+"993,saltos en 1 pie suave,1,19,""saltar en un pie de forma suave sirve para mejorar la fuerza, la coordiacion y la reaccion"",1,link3"
+994,flexiones de pecho media,2,21,flexionar los brazos a una intensidad media para trabajar el pecho sirve para mejorar la fuerza,2,link4
+"995,sentadilla dura,3,23,""flexionar las piernas con bastante peso sirve para trabajar de forma dura la fuerza, la resistencia, la velocidad, la aceleracion y la reaccion"",3,link5"
+"996,skipping duro,3,25,""tocar el suelo rapido con la punta de cada pie de forma rapida en el menor tiempo posible, sirve para trabajar de forma dura la velocidad, la aceleracion, la reaccion y la coordinacion"",3,link6"
+"997,taloneo suave,1,27,""flexionar los talones atrás al gluteo al mismo tiempo que se mueven los brazos a una misma velocidad suave sirve para mejorar la coordinacion, la aceleracion, la reaccion, y la resistencia"",1,link7"
+"998,elongaciones media,2,29,""flexionar las piernas de una manera media sirve para mejorar la flexibilidad, la fuerza, la velocidad, la aceleracion y la reaccion"",2,link8"
+"999,barras media,2,31,""extender los brazos y luego flexionarlos subiendo el cuerpo a una intensidad media para hacer dominadas sirve para mejorar la fuerza, la velocidad, la resistencia, la aceleracion y la reaccion"",2,link9"
+"1000,escalera de agilidad duro,3,33,""tocar de forma rapida con los pies dentro y fuera de la escalera sirve para trabajar de forma dura la aceleracion, la velocidad, la reaccion y la coordinacion"",3,link10"
